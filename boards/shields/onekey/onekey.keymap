@@ -10,7 +10,7 @@
         default_layer {
             bindings = <
                 &kp ENTER
-                &bt BT_NXT
+                &bt BT_CLR
                 &out OUT_USB
             >;
         };
