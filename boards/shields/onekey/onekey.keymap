@@ -7,10 +7,11 @@
         compatible = "zmk,keymap";
 
         default_layer {
+            display-name = "Base";
             bindings = <
                 &kp ENTER
                 &bt BT_NXT
-                &bt BT_CLR
+                &studio_unlock
             >;
         };
     };
