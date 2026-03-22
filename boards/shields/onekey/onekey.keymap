@@ -9,9 +9,8 @@
 
         default_layer {
             bindings = <
-                &kp ENTER
-                &bt BT_CLR
-                &out OUT_USB
+                &kp Q    &kp W
+                &kp A    &kp S
             >;
         };
     };
